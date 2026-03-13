@@ -15,7 +15,7 @@ export const portfolioData = {
   },
   about: {
     description:
-      "Abhishek Kumar is a B.Tech Computer Science student with a strong interest in technology, automation, and building online businesses. He enjoys working on AI tools, web development, and scalable digital projects. Abhishek is passionate about creating tech-driven solutions such as automated systems, web applications, and online platforms. His goal is to build innovative products and startups that combine technology, efficiency, and modern user experience.",
+      "Abhishek Kumar a B.Tech Computer Science student with a strong interest in technology, automation, and building online businesses. He enjoys working on AI tools, web development, and scalable digital projects. Abhishek is passionate about creating tech-driven solutions such as automated systems, web applications, and online platforms. His goal is to build innovative products and startups that combine technology, efficiency, and modern user experience.",
   },
   career: [
     {
